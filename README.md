@@ -10,7 +10,7 @@ Service katmanı
 
 Generic Repository 
 
-AutoFac nedir
+AutoFac
 
 FluentValidation
 
